@@ -3,3 +3,4 @@ This repository holds the MATLAB code for a project in Coherent Diffractive Imag
 **Team1DiffPatt** is reconstructing an artificial image with no issues. 
 **Team1DeadPixelReconstruction** is reconstrcuting the same artificial image but with missing information at the center of the diffraction pattern. (Using a beamstop to block the center of a CDI image is common in real CDI experiments because the coherent beam is intense an can damage the detectors)
 **Team1YeastCell** is reconstructing a real image of a yeast cell. This diffraction pattern also has missing information at the center as well as blurry spots and other issues that come up in CDI experiments. 
+**SOME DIFFRACTION PATTERNS ARE TOO BIG TO UPLOAD. **
